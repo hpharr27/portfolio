@@ -1,33 +1,19 @@
-NAME,TEAM
-SF,49ers
-CHI,Bears
-CIN,Bengals
-BUF,Bills
-DEN,Broncos
-CLE,Browns
-ARI,Cardinals
-LAC,Chargers
-KC,Chiefs
-IND,Colts
-DAL,Cowboys
-MIA,Dolphins
-PHI,Eagles
-ATL,Falcons
-NYG,Giants
-JAC,Jaguars
-NYJ,Jets
-DET,Lions
-GB,Packers
-CAR,Panthers
-NE,Patriots
-OAK,Raiders
-LAR,Rams
-BAL,Ravens
-WAS,Redskins
-NO,Saints
-SEA,Seahawks
-PIT,Steelers
-TB,Tampa Bay
-HOU,Texans
-TEN,Titans
-MIN,Vikings
+partNAME,location
+Twelve V PSU, is located in a blue box on shelf 1, in slot 1
+ABS, is located in a blue box on shelf 1, in slot 2
+Three D Printed Parts, is located in a blue box on shelf 1, in slot 3
+Associate Pilot, is located in a blue box on shelf 1, in slot 4
+ABS Printer, is located in a blue box on shelf 1, in slot 5
+AC Wiring and Boxes, is located in a blue box on shelf 1, in slot 6
+AC Outlet Boxes, is located in a blue box on shelf 1, in slot 7
+Antennae, is located in a blue box on shelf 1, in slot 7
+Arduino Shields, is located in a blue box on shelf 1, in slot 8
+Arduinos, is located in a blue box on shelf 1, in slot 9
+Atmel Dev Kits, is located in a blue box on shelf 1, in slot 10
+Alexa Echo Dot, is located in a blue box on shelf 1, in slot 11
+Standard Batteries, is located in a blue box on shelf 1, in slot 12
+Custom Batteries, is located in a blue box on shelf 1, in slot 12
+Bags, is located in a blue box on shelf 1, in slot 13
+Brushes, is located in a blue box on shelf 1, in slot 14
+Batt Tester, is located in a blue box on shelf 1, in slot 14
+BLE Modules, is located in a blue box on shelf 1, in slot 15
